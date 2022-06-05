@@ -19,4 +19,3 @@ I'm 39 years old. Now I work as a __1C__ programmer in the production of champig
 - _Russian_ - native speaker
 - _English_ - A2
 - _Polish_ - A1, have Karta Polaka
-
