@@ -11,11 +11,7 @@ I'm 39 years old. Now I work as a __1C__ programmer in the production of champig
 
 ### Education
 - _RS School_: 2022 ML-INTRO-2022Q1 (DATA SCIENCE) 
-<object data="https://app.rs.school/certificate/osqhcl1j" type="application/pdf" width="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Sertificate](https://app.rs.school/certificate/osqhcl1j)
 - _RS School_: 2022 JS Stage 0
 - _BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS_: 2000-2005, Faculty of Information Technologies and Control
 
