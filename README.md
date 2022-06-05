@@ -1,1 +1,1 @@
-https://github.com/Sviatl/rsschool-cv/blob/gh-pages/cv
+https://sviatl.github.io/rsschool-cv/cv
