@@ -1,9 +1,27 @@
-body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+.h1Style {
+  color: #800080;
+}
+.h2Style {
+  color: #808080;
+}
+.bodyStyle {
+  max-width: 1024px;
+  margin: 3% auto;
+  font-family: 'Arial', sans-serif;
+  padding: 2rem;
+  background-color: hsl(270, 98%, 90%);
+}
+.imgsRound {
+  display:block;
+  border-radius: 200px; 
+  border: 3px solid #808080; 
+  margin:auto;
+  box-shadow: 0 0 10px #666; 
+  width: 300px;
+ }
+.imgs{
+  display:block;
+  border: 2px solid #808080; 
+  margin:auto;
+  width: 100px;
+}
