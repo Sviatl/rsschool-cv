@@ -16,5 +16,5 @@ I'm 39 years old. Now I work as a __1C__ programmer in the production of champig
 
 ### Languages
 - _Russian_ - native speaker
-- _English_ - B2
-- _Polish_ - A1
+- _English_ - B1
+- _Polish_ - A2
